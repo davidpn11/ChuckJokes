@@ -2,24 +2,38 @@ package com.android.pena.david.builditbigger;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.Toast;
 
+
+import com.example.JokesAPI;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+
 public class MainActivity extends AppCompatActivity {
+
+    @BindView(R.id.adView) AdView mAdView;
+    @BindView(R.id.joke_btn) Button jokeBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        ButterKnife.bind(this);
 
-        AdView mAdView = (AdView) findViewById(R.id.adView);
-        // Create an ad request. Check logcat output for the hashed device ID to
-        // get test ads on a physical device. e.g.
-        // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
                 .build();
         mAdView.loadAd(adRequest);
+
+        jokeBtn.setOnClickListener(v -> tellJoke());
+    }
+
+    private void tellJoke(){
+        JokesAPI jokesAPI = new JokesAPI();
+        Toast.makeText(this, jokesAPI.getJoke(), Toast.LENGTH_SHORT).show();
     }
 }
