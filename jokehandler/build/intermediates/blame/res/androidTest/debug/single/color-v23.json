@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_edittext.xml",

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeHandler</string>
+    <string name="title">ChuckJokes</string>
+    <string name="next_joke">Next\nJoke</string>
+    <string name="loading_joke_msg">Please wait&#8230;</string>
+    <string name="error_string">Something Went Wrong!!</string>
+</resources>

@@ -32,12 +32,12 @@
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
@@ -96,12 +96,12 @@
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/activity_joke.xml",
@@ -176,16 +176,16 @@
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",

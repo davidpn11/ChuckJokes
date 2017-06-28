@@ -4,18 +4,6 @@
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/googleg_standard_color_18.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
-    },
-    {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -24,12 +12,12 @@
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
@@ -74,10 +62,6 @@
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/design_ic_visibility.png",
         "source": "/Users/davidnascimento/.android/build-cache/807218d07ffa3fabea7215054320be2c558ac5d3/output/res/drawable-xxhdpi-v4/design_ic_visibility.png"
-    },
-    {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -188,10 +172,6 @@
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -214,9 +194,5 @@
     {
         "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
         "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "/Users/davidnascimento/.android/build-cache/d0f2c338dce7afa4b4110d92615aded0a7442b36/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     }
 ]
