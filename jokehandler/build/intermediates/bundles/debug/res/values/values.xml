@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokeHandler</string>
+    <string name="error_string">Something Went Wrong!!</string>
+    <string name="loading_joke_msg">Please wait…</string>
+    <string name="next_joke">Next\nJoke</string>
+    <string name="title">ChuckJokes</string>
+</resources>

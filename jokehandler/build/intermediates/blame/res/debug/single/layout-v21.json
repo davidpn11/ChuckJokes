@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/davidnascimento/AndroidStudioProjects/BuildItBigger/jokehandler/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/davidnascimento/.android/build-cache/67be9dc7c11a32b152e3a55bd7b0e74e22098729/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
